@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eric
+- 👋 Hi, I’m erloo
 - 👀 I’m interested in Computer science
 - 🌱 I’m currently learning Computer science
 
